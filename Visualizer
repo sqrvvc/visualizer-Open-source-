@@ -923,7 +923,6 @@ end
 --credits page
 local credits = venyx:addPage("Credits", 5012544693)
 local creds = credits:addSection("Script Credits")
-creds:addTextbox("eloekx2 aka. $V - dev")
-creds:addTextbox("maniikosa aka. DoomSlasha - dev")
+creds:addTextbox("eloekx2 aka. $V#1337 - dev")
 -- load
 venyx:SelectPage(venyx.pages[1], true)
